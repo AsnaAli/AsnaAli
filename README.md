@@ -1,6 +1,4 @@
-DevOps enthusiast with 2.5 years of hands-on experience in architecting/ automating and optimizing
-mission critical deployments over large infrastructure. Proficient with various development, testing and
-deployment tools, configuration management tools, and in developing CI/ CD pipelines. Experienced in
+Proficient with various development, testing and deployment tools, configuration management tools, and in developing CI/ CD pipelines. Experienced in
 Cloud deployment features, Bash, Linux and WordPress.
 
 
