@@ -1,4 +1,4 @@
-## Proficient with various development, testing and deployment tools, configuration management tools, and in developing CI/ CD pipelines. Experienced in Cloud deployment features, Bash, Linux and WordPress.
+Proficient with various development, testing and deployment tools, configuration management tools, and in developing CI/ CD pipelines. Experienced in Cloud deployment features, Bash, Linux and WordPress.
 
 
 <!---
